@@ -1,0 +1,6 @@
+export {default as Enemies} from './enemies/Enemies'
+export {default as Teachers} from './teachers/Teachers'
+export {default as Footer} from './footer/Footer'
+export {default as Header} from './header/Header'
+export {default as Bff} from './bff/Bff'
+export {default as WhoIsNaruto} from './whoIsNaruto/WhoIsNaruto'
